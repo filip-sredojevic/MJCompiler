@@ -1,2 +1,1 @@
-# MJCompiler
-A compiler for the MicroJava programming language.
+# Compiler for the MicroJava programming language
